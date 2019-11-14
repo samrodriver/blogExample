@@ -1,4 +1,7 @@
-Demian Orso es un hombre de 40 años.
-Tiene un hijo llamado Emil
-Tiene una esposa llamada Mónica.
-Hace dos años que están muertos.
+Demian Orso es un hombre de 40 años,
+
+Él vive en la ciudad de la Furia,
+
+tiene un hijo de 8 años, llamado Emil.
+
+también tiene una esposa llamada Mónica.
